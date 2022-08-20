@@ -1,0 +1,22 @@
+{
+  "name": "dppedras",
+  "version": "1.0.0",
+  "description": "\"# dppedras\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dppedras/dppedras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dppedras/dppedras/issues"
+  },
+  "homepage": "https://github.com/dppedras/dppedras#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
