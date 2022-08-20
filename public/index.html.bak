@@ -7,9 +7,13 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="DP Indústria e Comércio de Pedras" />
-    <meta property="og:description" content="DP Indústria e Comércio de Pedras" />
-    <meta property="og:image" content="http://dppedras.com/assets/images/logo-300x300.png" />
-
+    <meta property="og:description" content="As melhores pedras da região" />
+    <meta property="og:image" content="https://www.dppedras.com/assets/images/logo.jpg" />
+	<meta property="og:site_name" content="DP Indústria e Comércio de Pedras" />
+	<meta property="og:url" content="https://www.dppedras.com/" />
+	<meta property="og:locale" content="pt_PT" />
+	<meta name="description" content="As melhores pedras da região" />
+	
     <title>DP Indústria e Comércio de Pedras</title>
 
     <link href="/assets/css/main.css" rel="stylesheet">
@@ -216,8 +220,6 @@
         });
       });
     </script>
-
-    <hide-000webhost-banner></hide-000webhost-banner>
 
   </body>
 </html>
