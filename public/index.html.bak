@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="DP Indústria e Comércio de Pedras" />
     <meta property="og:description" content="DP Indústria e Comércio de Pedras" />
-    <meta property="og:image" content="http://dppedras.com/assets/images/logo.jpg" />
+    <meta property="og:image" content="http://dppedras.com/assets/images/logo-300x300.png" />
 
     <title>DP Indústria e Comércio de Pedras</title>
 
@@ -216,6 +216,8 @@
         });
       });
     </script>
+
+    <hide-000webhost-banner></hide-000webhost-banner>
 
   </body>
 </html>

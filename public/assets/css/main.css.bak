@@ -301,3 +301,4 @@
     min-width: 33%!important;
   }
 }
+hide-000webhost-banner+div{ display:none }
