@@ -38,8 +38,10 @@
 }
 .header,.header>.row>div{
   min-height:60px;
-  background:#d7ffca;
   font-weight:bold;
+  background: url(/assets/images/background-3.jpg);
+  background-size: 339px;
+  background-position: -18px -6px;
 }
 .header>.row>.col-4{
   cursor:pointer;
